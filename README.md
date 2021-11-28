@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ria
-- 👀 I’m interested in A.I, robotics and film.
+- Welcome, I'm Ria
+- I'm interested in A.I, robotics and good film.
 
 
 <!---
