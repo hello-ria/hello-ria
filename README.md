@@ -1,5 +1,6 @@
 - Welcome, I'm Ria
 - I'm interested in A.I, robotics and good film.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hello-ria&count_private=true)
 
 
 <!---
