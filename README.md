@@ -1,6 +1,5 @@
 # Welcome 🩷
-<h3 align="left"> Hello - I'm Ria. </h3>
-<h3 align="left">  It's nice to meet you! </h3>
+<h3 align="middle"> Hello - I'm Ria. It's nice to meet you! Here you can learn more about me. Feel free to follow me here or connect with me on Linkedin. </h3>
 
 ## Get to Know Me
 
