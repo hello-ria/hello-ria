@@ -1,5 +1,6 @@
 # Welcome ❇️
 <h3 align="left"> Hello - I'm Ria. It's nice to meet you! Here you can learn more about me. Feel free to follow me or connect with me on Linkedin. </h3>
+<a href="https://linkedin.com/in/riabaxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ria Baxi Linkedin" height="40" width="50" /></a>
 
 ## Get to Know Me :wave:
 
@@ -10,7 +11,6 @@ I am a published poet and author. My hobbies include watching foreign flims and 
 Check out my Devpost portfolio below. Shoot me a message for a quick chat or for any opportunities. 
 
 <p align="left">
-<a href="https://linkedin.com/in/riabaxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ria Baxi Linkedin" height="40" width="50" /></a>
   <a href="https://devpost.com/hello-ria" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/devpost/devpost-icon.svg" alt="https://devpost.com/hello-ria" height="50" width="50"></a>
 </p>
 
