@@ -1,11 +1,11 @@
 # Welcome ❇️
-<h3 align="left"> Hello - I'm Ria. It's nice to meet you! Here you can learn more about me. Feel free to follow me here or connect with me on Linkedin. </h3>
+<h3 align="left"> Hello - I'm Ria. It's nice to meet you! Here you can learn more about me. Feel free to follow me or connect with me on Linkedin. </h3>
 
 ## Get to Know Me
 
-I love to keep up with the latest developments in AI, ML, and robotics. My hobbies include watching and dissecting foreign flims and TV shows. I describe myself as a software developer who dips her toes into game developement and machine learning at times. 
+I love to keep up with the latest developments in AI, ML, and robotics. I describe myself as a full-stack software developer who dips her toes into game developement and machine learning at times. 
 
-I am a published poet and author. I relax by reading North American literature and short stories with a cup of tea. 
+I am a published poet and author. I relax by reading North American literature and short stories with a cup of tea. My hobbies include watching and dissecting foreign flims and TV shows.
 
 Shoot me a message or connect with me on Linkedin below for a quick chat or for any opportunities!
 
