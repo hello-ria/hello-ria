@@ -5,7 +5,7 @@
 
 I love to keep up with the latest developments in AI, ML, and robotics. I describe myself as a full-stack software developer who dips her toes into game developement and machine learning at times. 
 
-I am a published poet and author. My hobbies include watching foreign flims and TV shows, tea making, reading North American literature!
+I am a published poet and author. My hobbies include watching foreign flims and TV shows, reading North American literature, and tea making!
 
 Check out my Devpost portfolio below. Shoot me a message for a quick chat or for any opportunities. 
 
