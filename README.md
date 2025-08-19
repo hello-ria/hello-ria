@@ -19,7 +19,7 @@ Check out my Devpost portfolio below.
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,swift,html,css,js,r,bash,matlab,latex,md,regex" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,swift,html,css,js,r,bash,dart,matlab,latex,md,regex" />
   </a>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,maven,vim,eclipse,visualstudio,anaconda,arduino" />
